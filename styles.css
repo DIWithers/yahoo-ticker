@@ -1,0 +1,13 @@
+.up {
+	color:  green;
+}
+
+.down {
+	color:  red;
+}
+
+.my-stocks h1 {
+	text-align: center;
+	border: 2px solid green;
+	background-color:  lightgreen;
+}
